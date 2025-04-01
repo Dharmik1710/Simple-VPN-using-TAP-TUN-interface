@@ -3,7 +3,7 @@ Setup server first.
 Compile the code: gcc -o simpletunClient simpletunClient.c -lssl -lcrypto
 
 Run the code: sudo ./simpletunClient -i tun0 -c 192.168.15.8 -d (the IP here should be of the server).
-PEM pass phrase is: Jevin
+Enter PEM pass phrase
 The code will be running at this point
 
 On other terminal:

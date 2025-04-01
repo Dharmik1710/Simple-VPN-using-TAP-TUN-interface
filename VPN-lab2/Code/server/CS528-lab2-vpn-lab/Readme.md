@@ -1,7 +1,7 @@
 Compile the code: gcc -o simpletun simpletun.c -lssl -lcrypto
 
 Run the code: sudo ./simpletun -i tun0 -s -d
-PEM pass phrase is: Jevin
+Enter PEM pass phrase
 The code will be running at this point
 
 On other terminal:
